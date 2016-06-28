@@ -1,12 +1,13 @@
 # Site settings
 title:
-email:
+email: hi@vestalux.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: vestalux
 github_username:
+facebook_username: vestalux
 
 # Build settings
 markdown: kramdown
